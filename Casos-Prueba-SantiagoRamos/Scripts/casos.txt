@@ -1,3 +1,0 @@
-Validar el login al portal 
-Validar alerta contraseña incorrecta 
-Validar correo vacío
