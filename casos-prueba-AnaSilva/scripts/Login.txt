@@ -1,2 +1,0 @@
-Iniciar sesión con usuario válido
-Iniciar sesión con usuario inválido
