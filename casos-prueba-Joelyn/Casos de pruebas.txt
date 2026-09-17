@@ -1,4 +1,0 @@
-Prueba de rama Git:
-
--Realizar retiro
--Prueba de Api.
