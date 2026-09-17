@@ -1,0 +1,10 @@
+ID TC;Escenario de Prueba;Resultado Esperado
+CP-FUNC-01;Visualización de sección Gestión Documental para usuario autorizado;Comportamiento conforme a HU y criterios de aceptación
+CP-FUNC-02;Carga exitosa de archivo PDF;Comportamiento conforme a HU y criterios de aceptación
+CP-FUNC-03;Carga exitosa de formatos permitidos;Comportamiento conforme a HU y criterios de aceptación
+CP-FUNC-09;Creación de negocio sin documentos;Comportamiento conforme a HU y criterios de aceptación
+CP-NEG-01;Formato no permitido;Comportamiento conforme a HU y criterios de aceptación
+CP-NEG-02;Carga múltiple con archivo inválido;Comportamiento conforme a HU y criterios de aceptación
+CP-FUNC-06;Reemplazo archivo mismo nombre;Comportamiento conforme a HU y criterios de aceptación
+CP-NEG-09;Cancelación reemplazo;Comportamiento conforme a HU y criterios de aceptación
+CP-INT-01;Auditoría creación archivo;Comportamiento conforme a HU y criterios de aceptación
