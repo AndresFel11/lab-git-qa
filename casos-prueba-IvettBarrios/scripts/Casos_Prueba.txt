@@ -1,0 +1,5 @@
+Verificar generación del informe con la fecha corte ingresada
+
+Verificar que el rango de fechas no sea mayor a 35 días
+
+Verificar vista previa al ingresar tipo de documento y numero de documento del cliente 
